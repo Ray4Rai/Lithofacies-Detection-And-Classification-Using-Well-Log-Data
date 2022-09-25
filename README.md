@@ -4,6 +4,6 @@
 Team Members:
 
 Rashmi Kumari,
-Ravi Raj
-Rachit Kumar
+Ravi Raj,
+Rachit Kumar,
 Rijurekh Halder
